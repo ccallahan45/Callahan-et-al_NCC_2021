@@ -1,5 +1,4 @@
-# Callahan-et-al_NCC_2021
-ENSO-LongRunMIP-Replication
+# Robust decrease in ENSO amplitude under long-term warming
 
 This repository provides processed data and code required to replicate the results in "Robust decrease in ENSO amplitude under long-term warming," Nature Climate Change, by Christopher Callahan, Chen Chen, Maria Rugenstein, Jonah Bloch-Johnson, Shuting Yang, and Liz Moyer.
 
